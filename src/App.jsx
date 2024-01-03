@@ -3,7 +3,6 @@ import "./App.css";
 function Experience() {
   return (
     <>
-      <h3>Software Developer</h3>
       <h4>Sigma Lab Sdn Bhd</h4>
     </>
   );
